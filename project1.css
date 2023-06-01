@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+#content_1{
+    text-align: center;
+    padding: 200px;
+     margin-bottom: 10px;
+    font-family: serif;
+    text-transform: capitalize;
+    font-size: x-large;
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/31/18/17/fantasy-3645263__340.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 55px;  
+    /* border: 1px solid rgb(236, 9, 9);  */
+    height: 400px;
+}
+
+h1{
+    color:#6C4834;
+
+  
+}
+a{
+    border: 1px solid black;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-decoration: none;
+    color: #6C4834; 
+    
+}
+
+a:hover{
+  background-color: #BD6B48;  
+}
+
+#main_content{
+    margin-top: -10px;
+    border: 1px solid black;
+    height: 150px;
+    padding: 25px;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 17px;
+    background-color:#926239;
+    color: white;
+    /* padding: 20px; */
+
+}
+
+ /* h6{
+font-size: medium;
+color: #6C4834;
+line-height: 5px;
+}  */
+
+
+
+  /* #main_div{
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block; 
+     padding: 45px; 
+    background-color: #7F3F00;
+    color: #FFFFFF;
+    height: 100px; */
+    /* margin-right: 1px;
+    text-indent: 50px;
+    line-height: 35px; */
+    /* margin-top: 1px;  */
+/* }  */
+
+
+#main_div1{
+    color: #926239;
+    background-color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 15px;
+
+}
+    
+
+#main_div2{
+    border: 1px solid black;
+    display: inline-block;
+     padding: 20px; 
+    /* width: 355px; */
+    background-color: #926239;
+    color: azure;
+    /* height: 100px; */
+    /* font-size: larger; */
+    margin-bottom: 1px;
+    line-height: 20px;
+    
+}
+
+#main_div3{
+    /* border: 1px solid whitesmoke; */
+    display: inline-block;
+    /* width:360px; */
+    color: #926239;
+    /* height: 100px; */
+    padding: 20px;
+    margin-bottom: 1px;
+    line-height: 20px;
+  
+
+}
+
+#main_div4{
+    border: 1px solid black;
+    display: inline-block;
+    /* width: 360px; */
+    background-color: #926239;
+    color:#FFFFFF;
+    /* height: 100px; */
+    /* padding-left: 5px;
+    padding-top: 20px; */
+    padding: 20px;
+    margin-bottom: 1px;
+    line-height: 20px;
+}
+
+
+
+
+.para{
+    width: 400px;
+
+}
